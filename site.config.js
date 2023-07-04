@@ -1,19 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "stargamer",
+    name: "2ne1xxi",
     image: "/20UMGIM12176.rgb.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "master/prores collector",
-    bio: "i love prores music videos.",
-    email: "stargamerprores@gmail.com",
+    bio: "I collect prores/master music videos",
+    email: "2ne1xxiprores@gmail.com",
     linkedin: "",
     github: "",
     instagram: "",
   },
   // blog setting (required)
   blog: {
-    title: "stargamer",
-    description: "stargamer prores collection.",
+    title: "2ne1xxi",
+    description: "2ne1xxi prores collection.",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
